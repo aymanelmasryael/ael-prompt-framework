@@ -1,5 +1,7 @@
 # AEL | Prompt Framework — 50 Professional AI Prompts
 
+> **🚨 ARCHIVED** — This project has been merged into the [AEL 1000+ AI Prompts Library](https://github.com/aymanelmasryael/ael-1000-prompts-library) as Batch 11. This repository is kept as a redirect only and is no longer actively maintained.
+
 > **50 professional AI prompts** with smart search, generation engine, multi-format export, and an interactive UI component library.  
 > Built by Ayman Elmasry — AEL Digital Studio.
 
